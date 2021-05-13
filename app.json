@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "bh_rising/pages/index/index",
+    "bh_rising/pages/cash/cash",
+    "bh_rising/pages/today/today",
+    "bh_rising/pages/rank/rank",
+    "bh_rising/pages/my/my",
+    "bh_rising/pages/yesterday/yesterday",
+    "bh_rising/pages/exemption/exemption",
+    "bh_rising/pages/friendList/friendList",
+    "bh_rising/pages/more/more",
+    "bh_rising/pages/goodsconvert/goodsconvert",
+    "bh_rising/pages/goods/goods",
+    "bh_rising/pages/address/address",
+    "bh_rising/pages/order/order",
+    "bh_rising/pages/search/search"
+  ],
+  "window": {
+    "navigationStyle": "custom",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": false
+  },
+  "networkTimeout": {
+    "request": 15000,
+    "downloadFile": 15000
+  },
+  "navigateToMiniProgramAppIdList": [
+    "wx6a2490e81d0ad18a",
+    "wxa821909e6734cf31",
+    "wx0838d4ed334e5597",
+    "wxef92000a4732c1e1",
+    "wxa283fc81148cfd33",
+    "wx52a19aee4dc5fbcd"
+  ],
+  "debug": false,
+  "sitemapLocation": "sitemap.json"
+}
