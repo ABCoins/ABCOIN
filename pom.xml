@@ -4,16 +4,16 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.bohr</groupId>
-    <artifactId>bohr</artifactId>
+    <groupId>org.ABCOIN</groupId>
+    <artifactId>ABCOIN</artifactId>
     <version>1.0.2</version>
     <modules>
-        <module>bohr-core</module>
-        <module>bohr-evm</module>
+        <module>ABCOIN-core</module>
+        <module>ABCOIN-evm</module>
     </modules>
 
     <packaging>pom</packaging>
-    <description>BOHR is an experimental high-performance blockchain platform that powers decentralized application.</description>
+    <description>ABCOIN is an experimental high-performance blockchain platform that powers decentralized application.</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -26,8 +26,8 @@
     </properties>
 
     <organization>
-        <name>BOHR Foundation</name>
-        <url>https://www.bohr.org</url>
+        <name>ABCOIN Foundation</name>
+        <url>https://www.ABCOIN.org</url>
     </organization>
 
     <licenses>
@@ -60,8 +60,8 @@
 
         <dependencies>
             <dependency>
-                <groupId>org.bohr</groupId>
-                <artifactId>bohr-evm</artifactId>
+                <groupId>org.ABCOINr</groupId>
+                <artifactId>ABCOIN-evm</artifactId>
                 <version>${project.version}</version>
             </dependency>
         </dependencies>
