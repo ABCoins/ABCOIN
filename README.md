@@ -5,11 +5,10 @@
 ABcoin is a cryptocurrency like Bitcoin, although it  use SHA256 as
 its proof of work (POW). Taking development cues from Tenebrix and Litecoin,
 ABcoin currently employs a simplified variant of scrypt.
-- **Website:** ! （1）[ABCOIN](https://user-images.githubusercontent.com/68141675/118073968-9db69680-b3df-11eb-9b78-4c300a046501.jpg)
+- **Website:** ! （1） ![ABCOIN](https://user-images.githubusercontent.com/68141675/118925483-64e36800-b971-11eb-8753-b6cbca29976d.jpg)
+- （Use your WeChat scan code to dig）
 
-                 （2）![ABLK](https://user-images.githubusercontent.com/68141675/118925313-1a61eb80-b971-11eb-87c6-331b41d7fd59.png)
-                 
-（Use your WeChat scan code to dig）
+                （2）![ABLK](https://user-images.githubusercontent.com/68141675/118925447-585f0f80-b971-11eb-98de-0f4def30d752.png)
 
 ## License – Much license ⚖️
 ABcoin Core is released under the terms of the MIT license. See
