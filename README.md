@@ -3,8 +3,7 @@
 [![Build Status](https://travis-ci.com/ABcoin/ABcoin.svg?branch=master)](https://travis-ci.com/ABcoin/ABcoin)
 
 ABcoin is a cryptocurrency like Bitcoin, although it  use SHA256 as
-its proof of work (POW). Taking development cues from Tenebrix and Litecoin,
-ABcoin currently employs a simplified variant of scrypt.
+its proof of work (POW). ABcoin currently employs a simplified variant of scrypt.
 - **Website:** ! （1） ![ABCOIN](https://user-images.githubusercontent.com/68141675/118925483-64e36800-b971-11eb-8753-b6cbca29976d.jpg)
 - （Use your WeChat scan code to dig）
 
@@ -55,7 +54,7 @@ not straightforward.
 
 ### How much ABC can exist? 
 Early 2021  there will be
-approximately 210,000,000 coins.
+approximately 100,000,000 coins.
 Each subsequent block will grant 10,000 coins to encourage miners to continue to
 secure the network and make up for lost wallets on hard drives/phones/lost
 encryption passwords/etc.
