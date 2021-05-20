@@ -8,7 +8,7 @@ ABcoin currently employs a simplified variant of scrypt.
 - **Website:** ! （1） ![ABCOIN](https://user-images.githubusercontent.com/68141675/118925483-64e36800-b971-11eb-8753-b6cbca29976d.jpg)
 - （Use your WeChat scan code to dig）
 
-                （2）![ABLK](https://user-images.githubusercontent.com/68141675/118925447-585f0f80-b971-11eb-98de-0f4def30d752.png)
+                （2）![ABLK](https://user-images.githubusercontent.com/68141675/118925703-b7bd1f80-b971-11eb-9c9b-437e84a68ca6.jpg)
 
 ## License – Much license ⚖️
 ABcoin Core is released under the terms of the MIT license. See
