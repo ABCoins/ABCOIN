@@ -8,6 +8,18 @@ its proof of work (POW). ABcoin currently employs a simplified variant of scrypt
 - （Use your WeChat scan code to dig）
 
    （2）![ABLK](https://user-images.githubusercontent.com/68141675/118925826-f18e2600-b971-11eb-928f-996282f50586.jpg)
+   
+   （3）AB movie For sale！
+   
+   （4）ABwk  For sale！
+   
+   For sale！
+  
+  Financial news：
+ 1：https://www.chainhoo.com/archives/128197 
+ 2：http://www.weilaicaijing.com/article/57259
+ 3： http://www.fn.com/news/152762.html 
+ 4：http://fengniaocaijing.com/article/detail?article_id=237217
 
 ## License – Much license ⚖️
 ABcoin Core is released under the terms of the MIT license. See
