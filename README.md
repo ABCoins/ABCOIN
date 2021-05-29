@@ -81,8 +81,8 @@ proof of work with a target time of one minute per block and difficulty
 readjustment after every block. The block rewards are fixed and halve every
 100,000 blocks. Starting with the 600,000th block, a permanent reward of
 10,000 ABcoin per block will be issued.  
-1.45 is force to the ABC （Total 10 million）
-2.90 work force to the ABC （Total 20 million）
-3.180 work force to the ABC（Total 30 million）
-4. ABC will be AB APP output 30%   （Total 30 million）
-5. 10 million by ABC dropped gave every AB contributors  （Total 10 million）
+一.45 is force to the ABC （Total 10 million）
+二.90 work force to the ABC （Total 20 million）
+三.180 work force to the ABC（Total 30 million）
+四. ABC will be AB APP output 30%   （Total 30 million）
+五. 10 million by ABC dropped gave every AB contributors  （Total 10 million）
