@@ -9,13 +9,13 @@ its proof of work (POW). ABcoin currently employs a simplified variant of scrypt
 
    （2）![ABGS](https://user-images.githubusercontent.com/68141675/118925826-f18e2600-b971-11eb-928f-996282f50586.jpg)
    
-    (3)ABwk  For sale！（Use your WeChat scan code to dig）
+    (3)ABwk  Stay tuned for！（Use your WeChat scan code to dig）
  
-   （4）ABXW  For sale！
+   （4）ABXW  Stay tuned for！
    
-   （5）AB movie For sale！
+   （5）AB movie Stay tuned for！
    
-   For sale！
+   Stay tuned for！
   
   Financial news：
  1：https://www.chainhoo.com/archives/128197 
