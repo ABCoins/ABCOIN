@@ -11,9 +11,10 @@ its proof of work (POW). ABcoin currently employs a simplified variant of scrypt
    
     (3)ABwk  Stay tuned for！（Use your WeChat scan code to dig）
  
-   （4）ABXW  Stay tuned for！
+   （4）ABWB  ![ABWB](https://user-images.githubusercontent.com/68141675/120098173-fcfa0200-c166-11eb-8da6-6229f0e245ea.jpg)
+    （Use your WeChat scan code to dig）
    
-   （5）AB movie Stay tuned for！
+   （5）ABXW Stay tuned for！
    
    Stay tuned for！
   
