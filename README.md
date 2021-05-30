@@ -4,16 +4,15 @@
 
 ABcoin is a cryptocurrency like Bitcoin, although it  use SHA256 as
 its proof of work (POW). ABcoin currently employs a simplified variant of scrypt.
-- **Website:** ! （1） ![ABCOIN](https://user-images.githubusercontent.com/68141675/118925483-64e36800-b971-11eb-8753-b6cbca29976d.jpg)
-- （Use your WeChat scan code to dig）
+- **Website:** ! （1） ![ABCOIN]（Use your WeChat scan code to dig）
 
    （2）![ABGS](https://user-images.githubusercontent.com/68141675/118925826-f18e2600-b971-11eb-928f-996282f50586.jpg)
-   
-    (3)ABwk  Stay tuned for！（Use your WeChat scan code to dig）
- 
-   （4）ABWB  ![ABWB](https://user-images.githubusercontent.com/68141675/120098173-fcfa0200-c166-11eb-8da6-6229f0e245ea.jpg)
+  
+   （3）ABWB  ![ABWB](https://user-images.githubusercontent.com/68141675/120098173-fcfa0200-c166-11eb-8da6-6229f0e245ea.jpg)
     （Use your WeChat scan code to dig）
-   
+    
+    (4)ABwk  Stay tuned for！（Use your WeChat scan code to dig）
+    
    （5）ABXW Stay tuned for！
    
    Stay tuned for！
