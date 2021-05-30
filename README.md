@@ -22,6 +22,8 @@ its proof of work (POW). ABcoin currently employs a simplified variant of scrypt
  2：http://www.weilaicaijing.com/article/57259
  3： http://www.fn.com/news/152762.html 
  4：http://fengniaocaijing.com/article/detail?article_id=237217
+ 5:http://www.lsjinfo.com/Wap/news/index/id/4320.html
+ 6:http://www.maitiannews.com/news/8870
 
 ## License – Much license ⚖️
 ABcoin Core is released under the terms of the MIT license. See
