@@ -4,7 +4,7 @@
 
 ABcoin is a cryptocurrency like Bitcoin, although it  use SHA256 as
 its proof of work (POW). ABcoin currently employs a simplified variant of scrypt.
-- **Website:** ! （1） ![AB生态]  https://www.wandoujia.com/apps/8283660
+- **Website:** （1） [AB生态]  https://www.wandoujia.com/apps/8283660
 
   
    Stay tuned for！
